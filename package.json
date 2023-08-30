@@ -1,0 +1,20 @@
+{
+  "name": "best-mini-ui",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "dancer-coderd",
+  "license": "ISC",
+  "engines": {
+    "node": ">=16",
+    "pnpm": ">=7"
+  },
+  "private": true,
+  "devDependencies": {
+    "typescript": "^5.2.2"
+  }
+}
